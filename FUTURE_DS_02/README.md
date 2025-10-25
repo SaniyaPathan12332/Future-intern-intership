@@ -62,7 +62,8 @@ It was my **second task (Task 2)** under the code **FUTURE_DS_02**, focusing on 
 🔗 Connect with Me
 
 💼 **LinkedIn:** www.linkedin.com/in/saniya-pathan-3a00b7354  
-🐙 **GitHub:** saniyapathan1011@gmail.com  
+🐙 **GitHub:** https://github.com/SaniyaPathan12332
+   **Mail:**  saniyapathan1011@gmail.com
 
 
 
